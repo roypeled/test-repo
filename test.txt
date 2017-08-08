@@ -1,1 +1,3 @@
 hello class
+
+i added an new line
